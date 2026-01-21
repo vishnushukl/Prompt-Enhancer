@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Enhancer App",
+  "description": "An application that takes a user's raw prompt and uses AI to rewrite it into a professional, structured, and optimized version for high-quality AI generation.",
+  "requestFramePermissions": []
+}
